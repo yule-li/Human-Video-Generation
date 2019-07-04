@@ -13,6 +13,7 @@
 - **TNA**: "Textured Neural Avatars" "CVPR"(2019) [[paper](https://arxiv.org/abs/1905.08776)][[project](https://saic-violet.github.io/texturedavatar/)]
 - **VOCA**: "Voice Operated Character Animation" "CVPR"(2019) [[paper](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/510/paper_final.pdf)][[project](https://voca.is.tue.mpg.de/)][[code](https://github.com/TimoBolkart/voca)]
 - **Audio2Face**: "Audio2Face: Generating Speech/Face Animation from Single Audio with Attention-Based Bidirectional LSTM Networks" "arXiv"(2019) [[paper](https://arxiv.org/abs/1905.11142)
+- **RSDA**: "Realistic Speech-Driven Animation with GANs" [[paper](https://arxiv.org/abs/1906.06337)][[project](https://sites.google.com/view/facial-animation)][[code](https://github.com/DinoMan/speech-driven-animation)]
 
 
 
