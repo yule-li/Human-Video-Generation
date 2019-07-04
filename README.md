@@ -8,6 +8,7 @@
 - **Vid2Vid**: "Video-to-Video Synthesis" "NIPS"(2018) [[paper](https://tcwang0509.github.io/vid2vid/paper_vid2vid.pdf)][[project](https://tcwang0509.github.io/vid2vid/)][[code](https://github.com/NVIDIA/vid2vid)]
 - **NAR**: "Neural Animation and Reenactment of Human Actor Videos" "Siggraph"(2019) [[paper](https://arxiv.org/abs/1809.03658)][[project](http://gvv.mpi-inf.mpg.de/projects/wxu/HumanReenactment/)]
 - **VPC**: "Deep Video-Based Performance Cloning" "Eurographics"(2019) [[paper](https://arxiv.org/abs/1808.06847)]
+- **FSTH": "Few-Shot Adversarial Learning of Realistic Neural Talking Head Models" "CVPR"(2019) [[paper](https://arxiv.org/pdf/1905.08233.pdf)][[code unofficial](https://github.com/grey-eye/talking-heads)]
 
 
 ## Applications
