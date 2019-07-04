@@ -8,6 +8,7 @@
 - **EBDN**: "Everybody Dance Now" "arXiv"(2018) [[paper](https://arxiv.org/pdf/1808.07371.pdf)][[project](https://carolineec.github.io/everybody_dance_now/)]
 - **Vid2Vid**: "Video-to-Video Synthesis" "NIPS"(2018) [[paper](https://tcwang0509.github.io/vid2vid/paper_vid2vid.pdf)][[project](https://tcwang0509.github.io/vid2vid/)][[code](https://github.com/NVIDIA/vid2vid)]
 - **NAR**: "Neural Animation and Reenactment of Human Actor Videos" "Siggraph"(2019) [[paper](https://arxiv.org/abs/1809.03658)][[project](http://gvv.mpi-inf.mpg.de/projects/wxu/HumanReenactment/)]
+- **TETH**: "Text-based Editing of Talking-head Video" "Siggraph"(2019) [[paper](https://www.ohadf.com/projects/text-based-editing/data/text-based-editing.pdf)][[project](https://www.ohadf.com/projects/text-based-editing/)]
 - **VPC**: "Deep Video-Based Performance Cloning" "Eurographics"(2019) [[paper](https://arxiv.org/abs/1808.06847)]
 - **FSTH**: "Few-Shot Adversarial Learning of Realistic Neural Talking Head Models" "CVPR"(2019) [[paper](https://arxiv.org/pdf/1905.08233.pdf)][[code unofficial](https://github.com/grey-eye/talking-heads)]
 - **TNA**: "Textured Neural Avatars" "CVPR"(2019) [[paper](https://arxiv.org/abs/1905.08776)][[project](https://saic-violet.github.io/texturedavatar/)]
@@ -15,6 +16,7 @@
 - **Audio2Face**: "Audio2Face: Generating Speech/Face Animation from Single Audio with Attention-Based Bidirectional LSTM Networks" "arXiv"(2019) [[paper](https://arxiv.org/abs/1905.11142)
 - **RSDA**: "Realistic Speech-Driven Animation with GANs" "arXiv"(2019) [[paper](https://arxiv.org/abs/1906.06337)][[project](https://sites.google.com/view/facial-animation)][[code](https://github.com/DinoMan/speech-driven-animation)]
 - **LISCG**: "Learning Individual Styles of Conversational Gesture" "arXiv"(2019) [[paper](https://arxiv.org/abs/1906.04160)] [[project](http://people.eecs.berkeley.edu/~shiry/projects/speech2gesture/)][[code](https://github.com/amirbar/speech2gesture)]
+
 
 
 
