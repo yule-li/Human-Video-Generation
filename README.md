@@ -11,6 +11,9 @@
 - **VPC**: "Deep Video-Based Performance Cloning" "Eurographics"(2019) [[paper](https://arxiv.org/abs/1808.06847)]
 - **FSTH**: "Few-Shot Adversarial Learning of Realistic Neural Talking Head Models" "CVPR"(2019) [[paper](https://arxiv.org/pdf/1905.08233.pdf)][[code unofficial](https://github.com/grey-eye/talking-heads)]
 - **TNA**: "Textured Neural Avatars" "CVPR"(2019) [[paper](https://arxiv.org/abs/1905.08776)][[project](https://saic-violet.github.io/texturedavatar/)]
+- **VOCA**: "Voice Operated Character Animation" "CVPR"(2019) [[paper](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/510/paper_final.pdf)][[project](https://voca.is.tue.mpg.de/)][[code](https://github.com/TimoBolkart/voca)]
+- **Audio2Face**: "Audio2Face: Generating Speech/Face Animation from Single Audio with Attention-Based Bidirectional LSTM Networks" "arXiv"(2019) [[paper](https://arxiv.org/abs/1905.11142)
+
 
 
 ## Applications
