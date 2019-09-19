@@ -21,6 +21,13 @@
 
 
 ## Applications
+### Face Swap
+- ZAO: a hot app.
+<iframe width="560" height="315"
+src="https://www.youtube.com/watch?v=m0u68w2H7_Y" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 ## Dataset
 
