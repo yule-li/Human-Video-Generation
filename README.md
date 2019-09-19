@@ -23,6 +23,7 @@
 ## Applications
 ### Face Swap
 - ZAO: a hot app.
+
 [![Video generated based on ZAO](https://img.youtube.com/vi/m0u68w2H7_Y/0.jpg)](https://www.youtube.com/watch?v=m0u68w2H7_Y)
 ## Dataset
 
