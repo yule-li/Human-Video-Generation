@@ -16,7 +16,7 @@
 - **Audio2Face**: "Audio2Face: Generating Speech/Face Animation from Single Audio with Attention-Based Bidirectional LSTM Networks" "arXiv"(2019) [[paper](https://arxiv.org/abs/1905.11142)
 - **RSDA**: "Realistic Speech-Driven Animation with GANs" "arXiv"(2019) [[paper](https://arxiv.org/abs/1906.06337)][[project](https://sites.google.com/view/facial-animation)][[code](https://github.com/DinoMan/speech-driven-animation)]
 - **LISCG**: "Learning Individual Styles of Conversational Gesture" "arXiv"(2019) [[paper](https://arxiv.org/abs/1906.04160)] [[project](http://people.eecs.berkeley.edu/~shiry/projects/speech2gesture/)][[code](https://github.com/amirbar/speech2gesture)]
-- **AUDIO2FAC**: "EAUDIO2FACE: GENERATING SPEECH/FACE ANIMATION FROM SINGLE AUDIO WITH ATTENTION-BASED BIDIRECTIONAL LSTM NETWORKS" "ICMI"(2019)
+- **AUDIO2FACE**: "EAUDIO2FACE: GENERATING SPEECH/FACE ANIMATION FROM SINGLE AUDIO WITH ATTENTION-BASED BIDIRECTIONAL LSTM NETWORKS" "ICMI"(2019)
 - **AvatarSim**: "A High-Fidelity Open Embodied Avatar with Lip Syncing and Expression Capabilities" "ICMI"(2019) [code](https://github.com/danmcduff/AvatarSim)
 
 
