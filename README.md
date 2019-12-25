@@ -18,6 +18,7 @@
 - **LISCG**: "Learning Individual Styles of Conversational Gesture" "arXiv"(2019) [[paper](https://arxiv.org/abs/1906.04160)] [[project](http://people.eecs.berkeley.edu/~shiry/projects/speech2gesture/)][[code](https://github.com/amirbar/speech2gesture)]
 - **AUDIO2FACE**: "EAUDIO2FACE: GENERATING SPEECH/FACE ANIMATION FROM SINGLE AUDIO WITH ATTENTION-BASED BIDIRECTIONAL LSTM NETWORKS" "ICMI"(2019)
 - **AvatarSim**: "A High-Fidelity Open Embodied Avatar with Lip Syncing and Expression Capabilities" "ICMI"(2019) [code](https://github.com/danmcduff/AvatarSim)
+- **NVP**: "Neural Voice Puppetry: Audio-driven Facial Reenactment" "arXiv"(2019)
 
 
 
