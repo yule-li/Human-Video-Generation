@@ -20,6 +20,7 @@
 - **AvatarSim**: "A High-Fidelity Open Embodied Avatar with Lip Syncing and Expression Capabilities" "ICMI"(2019) [code](https://github.com/danmcduff/AvatarSim)
 - **NVP**: "Neural Voice Puppetry: Audio-driven Facial Reenactment" "arXiv"(2019) [[paper](https://arxiv.org/pdf/1912.05566.pdf)]
 - **CSGN**: "Convolutional Sequence Generation for Skeleton-Based Action Synthesis" "ICCV"(2019) [[paper](http://yjxiong.me/papers/iccv19csgn.pdf)]
+- **Few shot VID2VID**: "Few-shot Video-to-Video Synthesis" [[paper](https://nvlabs.github.io/few-shot-vid2vid/main.pdf)] [[project](https://nvlabs.github.io/few-shot-vid2vid/)] [[code](https://github.com/NVlabs/few-shot-vid2vid)]
 
 
 
