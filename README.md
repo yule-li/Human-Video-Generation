@@ -21,6 +21,8 @@
 - **NVP**: "Neural Voice Puppetry: Audio-driven Facial Reenactment" "arXiv"(2019) [[paper](https://arxiv.org/pdf/1912.05566.pdf)]
 - **CSGN**: "Convolutional Sequence Generation for Skeleton-Based Action Synthesis" "ICCV"(2019) [[paper](http://yjxiong.me/papers/iccv19csgn.pdf)]
 - **Few shot VID2VID**: "Few-shot Video-to-Video Synthesis" [[paper](https://nvlabs.github.io/few-shot-vid2vid/main.pdf)] [[project](https://nvlabs.github.io/few-shot-vid2vid/)] [[code](https://github.com/NVlabs/few-shot-vid2vid)]
+- **FOM**: "First Order Motion Model for Image Animation" "NIPS"(2019) [[paper](http://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation.pdf)] [[project](https://aliaksandrsiarohin.github.io/first-order-model-website/)] [[code](https://github.com/AliaksandrSiarohin/first-order-model)]
+- **TransMoMo**: "TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting" "CVPR"(2020) [[paper](https://arxiv.org/pdf/2003.14401.pdf)] [[project](https://yzhq97.github.io/transmomo/)] [[code](https://github.com/yzhq97/transmomo.pytorch)]
 
 
 
