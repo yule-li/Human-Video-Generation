@@ -23,7 +23,9 @@
 - **Few shot VID2VID**: "Few-shot Video-to-Video Synthesis" [[paper](https://nvlabs.github.io/few-shot-vid2vid/main.pdf)] [[project](https://nvlabs.github.io/few-shot-vid2vid/)] [[code](https://github.com/NVlabs/few-shot-vid2vid)]
 - **FOM**: "First Order Motion Model for Image Animation" "NIPS"(2019) [[paper](http://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation.pdf)] [[project](https://aliaksandrsiarohin.github.io/first-order-model-website/)] [[code](https://github.com/AliaksandrSiarohin/first-order-model)]
 - **TransMoMo**: "TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting" "CVPR"(2020) [[paper](https://arxiv.org/pdf/2003.14401.pdf)] [[project](https://yzhq97.github.io/transmomo/)] [[code](https://github.com/yzhq97/transmomo.pytorch)]
+- **poseflow**: "Deep Image Spatial Transformation for Person Image Generation" "CVPR"(2020) [[paper](https://arxiv.org/abs/2003.00696)] [[project](https://renyurui.github.io/GFLA-web/)] [[code](https://github.com/RenYurui/Global-Flow-Local-Attention)]
 - **Hifi3dface**: "High-Fidelity 3D Digital Human Creation from RGB-D Selfies" "arXiv"(2020.10) [[paper](https://arxiv.org/pdf/2010.05562.pdf)][[project](https://tencent-ailab.github.io/hifi3dface_projpage/)] [[code](https://github.com/tencent-ailab/hifi3dface)]
+- **face-vid2vid**: "One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing" "arXiv"(2020.11) [[paper](https://arxiv.org/abs/2011.15126)] [[project](https://nvlabs.github.io/face-vid2vid/)] [[code](https://github.com/NVlabs/face-vid2vid)]
 
 
 
