@@ -32,7 +32,8 @@
 - **face-vid2vid**: "One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing" "arXiv"(2020.11) [[paper](https://arxiv.org/abs/2011.15126)] [[project](https://nvlabs.github.io/face-vid2vid/)] [[code](https://github.com/NVlabs/face-vid2vid)]
 - **HeadGan**: "HeadGAN: Video-and-Audio-Driven Talking Head Synthesis" "arXiv"(2020.12) [[paper](https://arxiv.org/pdf/2012.08261.pdf)]
 
-
+### 2021
+- **Talking-Face_PC-AVS**: "Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation" "CVPR"(2021) [[code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)[project(https://hangz-nju-cuhk.github.io/projects/PC-AVS)[demo](https://www.youtube.com/watch?v=lNQQHIggnUg)]
 
 
 ## Applications
