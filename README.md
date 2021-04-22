@@ -34,7 +34,8 @@
 
 ### 2021
 - **Talking-Face_PC-AVS**: "Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation" "CVPR"(2021) [[code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)[project(https://hangz-nju-cuhk.github.io/projects/PC-AVS)[demo](https://www.youtube.com/watch?v=lNQQHIggnUg)]
-
+- **Pixel Codec Avatar** "Pixel Codec Avatars" "arXiv"(2021.04) [[paper](https://arxiv.org/pdf/2104.04638.pdf)]
+- **MRAA** "Motion Representations for Articulated Animation"  "CVPR"(2021) [[project](https://aliaksandrsiarohin.github.io/motion-representation-website/)]
 
 ## Applications
 ### Face Swap
