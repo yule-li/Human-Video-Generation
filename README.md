@@ -33,9 +33,11 @@
 - **HeadGan**: "HeadGAN: Video-and-Audio-Driven Talking Head Synthesis" "arXiv"(2020.12) [[paper](https://arxiv.org/pdf/2012.08261.pdf)]
 
 ### 2021
-- **Talking-Face_PC-AVS**: "Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation" "CVPR"(2021) [[code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)[project(https://hangz-nju-cuhk.github.io/projects/PC-AVS)[demo](https://www.youtube.com/watch?v=lNQQHIggnUg)]
+- **Talking-Face_PC-AVS**: "Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation" "CVPR"(2021) [[code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)[project](https://hangz-nju-cuhk.github.io/projects/PC-AVS)[demo](https://www.youtube.com/watch?v=lNQQHIggnUg)]
 - **Pixel Codec Avatar** "Pixel Codec Avatars" "arXiv"(2021.04) [[paper](https://arxiv.org/pdf/2104.04638.pdf)]
 - **MRAA** "Motion Representations for Articulated Animation"  "CVPR"(2021) [[project](https://aliaksandrsiarohin.github.io/motion-representation-website/)]
+- **NWT** "Towards natural audio-to-video generation with representation learning" "arXiv"(2021)[[paper](https://arxiv.org/pdf/2106.04283.pdf)[project](https://next-week-tonight.github.io/NWT/)]
+- **LipSync3D** Data-Efficient Learning of Personalized 3D Talking Faces from Video using Pose and Lighting Normalization "arXiv"(2021) [[paper](https://arxiv.org/pdf/2106.04185.pdf)[demo](https://www.youtube.com/watch?v=L1StbX9OznY)]
 
 ## Applications
 ### Face Swap
