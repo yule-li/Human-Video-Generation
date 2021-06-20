@@ -31,6 +31,7 @@
 - **Hifi3dface**: "High-Fidelity 3D Digital Human Creation from RGB-D Selfies" "arXiv"(2020.10) [[paper](https://arxiv.org/pdf/2010.05562.pdf)][[project](https://tencent-ailab.github.io/hifi3dface_projpage/)] [[code](https://github.com/tencent-ailab/hifi3dface)]
 - **face-vid2vid**: "One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing" "arXiv"(2020.11) [[paper](https://arxiv.org/abs/2011.15126)] [[project](https://nvlabs.github.io/face-vid2vid/)] [[code](https://github.com/NVlabs/face-vid2vid)]
 - **HeadGan**: "HeadGAN: Video-and-Audio-Driven Talking Head Synthesis" "arXiv"(2020.12) [[paper](https://arxiv.org/pdf/2012.08261.pdf)]
+- "Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose" "arXiv"(2020) [[paper](http://arxiv.org/abs/2002.10137)][[code](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose)]
 
 ### 2021
 - **Talking-Face_PC-AVS**: "Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation" "CVPR"(2021) [[code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)][[project](https://hangz-nju-cuhk.github.io/projects/PC-AVS)][[demo](https://www.youtube.com/watch?v=lNQQHIggnUg)]
