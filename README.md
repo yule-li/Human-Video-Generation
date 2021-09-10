@@ -39,7 +39,7 @@
 - **MRAA** "Motion Representations for Articulated Animation"  "CVPR"(2021) [[project](https://aliaksandrsiarohin.github.io/motion-representation-website/)]
 - **NWT** "Towards natural audio-to-video generation with representation learning" "arXiv"(2021)[[paper](https://arxiv.org/pdf/2106.04283.pdf)][[project](https://next-week-tonight.github.io/NWT/)]
 - **LipSync3D** Data-Efficient Learning of Personalized 3D Talking Faces from Video using Pose and Lighting Normalization "arXiv"(2021) [[paper](https://arxiv.org/pdf/2106.04185.pdf)][[demo](https://www.youtube.com/watch?v=L1StbX9OznY)]
-- **AD-NeRF** Audio Driven Neural Radiance Fields for Talking Head Synthesis "ICCV"(2021) [[paper](https://arxiv.org/abs/2103.11078)][[codde](https://github.com/YudongGuo/AD-NeRF)][[demo](https://www.youtube.com/watch?v=TQO2EBYXLyU)][[project](https://yudongguo.github.io/ADNeRF/)]
+- **AD-NeRF** Audio Driven Neural Radiance Fields for Talking Head Synthesis "ICCV"(2021) [[paper](https://arxiv.org/abs/2103.11078)][[code](https://github.com/YudongGuo/AD-NeRF)][[demo](https://www.youtube.com/watch?v=TQO2EBYXLyU)][[project](https://yudongguo.github.io/ADNeRF/)]
 
 ## Applications
 ### Face Swap
