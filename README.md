@@ -40,6 +40,7 @@
 - **NWT** "Towards natural audio-to-video generation with representation learning" "arXiv"(2021)[[paper](https://arxiv.org/pdf/2106.04283.pdf)][[project](https://next-week-tonight.github.io/NWT/)]
 - **LipSync3D** Data-Efficient Learning of Personalized 3D Talking Faces from Video using Pose and Lighting Normalization "arXiv"(2021) [[paper](https://arxiv.org/pdf/2106.04185.pdf)][[demo](https://www.youtube.com/watch?v=L1StbX9OznY)]
 - **AD-NeRF** Audio Driven Neural Radiance Fields for Talking Head Synthesis "ICCV"(2021) [[paper](https://arxiv.org/abs/2103.11078)][[code](https://github.com/YudongGuo/AD-NeRF)][[demo](https://www.youtube.com/watch?v=TQO2EBYXLyU)][[project](https://yudongguo.github.io/ADNeRF/)]
+- **LSP** Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation [[paper](https://yuanxunlu.github.io/projects/LiveSpeechPortraits/resources/SIGGRAPH_Asia_2021__Live_Speech_Portraits__Real_Time_Photorealistic_Talking_Head_Animation.pdf)][[code](https://github.com/YuanxunLu/LiveSpeechPortraits)][[project](https://yuanxunlu.github.io/projects/LiveSpeechPortraits/)][[demo](https://yuanxunlu.github.io/projects/LiveSpeechPortraits/resources/[Compressed]SIGGRAPHAsia21_LiveSpeechPortraits.mp4)]
 
 ## Applications
 ### Face Swap
