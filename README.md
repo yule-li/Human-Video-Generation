@@ -42,7 +42,7 @@
 - **AD-NeRF** Audio Driven Neural Radiance Fields for Talking Head Synthesis "ICCV"(2021) [[paper](https://arxiv.org/abs/2103.11078)][[code](https://github.com/YudongGuo/AD-NeRF)][[demo](https://www.youtube.com/watch?v=TQO2EBYXLyU)][[project](https://yudongguo.github.io/ADNeRF/)]
 - **LSP** Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation [[paper](https://yuanxunlu.github.io/projects/LiveSpeechPortraits/resources/SIGGRAPH_Asia_2021__Live_Speech_Portraits__Real_Time_Photorealistic_Talking_Head_Animation.pdf)][[code](https://github.com/YuanxunLu/LiveSpeechPortraits)][[project](https://yuanxunlu.github.io/projects/LiveSpeechPortraits/)][[demo](https://yuanxunlu.github.io/projects/LiveSpeechPortraits/resources/[Compressed]SIGGRAPHAsia21_LiveSpeechPortraits.mp4)]
 - **FaceFormer** FaceFormer: Speech-Driven 3D Facial Animation with Transformers "arXiv"(2021.12) [[paper](https://arxiv.org/pdf/2112.05329.pdf)]
-- **HeadNeRF** HeadNeRF: A Real-time NeRF-based Parametric Head Model "arXiv"(2021.12) [[paper](https://arxiv.org/pdf/2112.05637.pdf)]
+- **HeadNeRF** HeadNeRF: A Real-time NeRF-based Parametric Head Model "arXiv"(2021.12) [[paper](https://arxiv.org/pdf/2112.05637.pdf)][[project](https://hy1995.top/HeadNeRF-Project/)]
 
 ## Applications
 ### Face Swap
