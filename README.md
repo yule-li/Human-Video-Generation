@@ -43,6 +43,10 @@
 - **LSP** Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation [[paper](https://yuanxunlu.github.io/projects/LiveSpeechPortraits/resources/SIGGRAPH_Asia_2021__Live_Speech_Portraits__Real_Time_Photorealistic_Talking_Head_Animation.pdf)][[code](https://github.com/YuanxunLu/LiveSpeechPortraits)][[project](https://yuanxunlu.github.io/projects/LiveSpeechPortraits/)][[demo](https://yuanxunlu.github.io/projects/LiveSpeechPortraits/resources/[Compressed]SIGGRAPHAsia21_LiveSpeechPortraits.mp4)]
 - **FaceFormer** FaceFormer: Speech-Driven 3D Facial Animation with Transformers "arXiv"(2021.12) [[paper](https://arxiv.org/pdf/2112.05329.pdf)]
 - **HeadNeRF** HeadNeRF: A Real-time NeRF-based Parametric Head Model "arXiv"(2021.12) [[paper](https://arxiv.org/pdf/2112.05637.pdf)][[project](https://hy1995.top/HeadNeRF-Project/)]
+- **FACIAL** FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning "ICCV"(2021) [[paper](https://arxiv.org/abs/2108.07938)][[code](https://github.com/zhangchenxu528/FACIAL)]
+
+### 2022
+- **NPFAP** Video-driven Neural Physically-based Facial Asset for Production "arXiv"(2022.02)[[paper](https://arxiv.org/pdf/2202.05592.pdf)]
 
 ## Applications
 ### Face Swap
