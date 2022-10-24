@@ -47,6 +47,7 @@
 
 ### 2022
 - **NPFAP** Video-driven Neural Physically-based Facial Asset for Production "arXiv"(2022.02)[[paper](https://arxiv.org/pdf/2202.05592.pdf)]
+- **PGMPI** Real-Time Neural Character Rendering with Pose-Guided Multiplane Images "ECCV"(2022) [[paper](https://arxiv.org/pdf/2204.11820.pdf)[code](https://github.com/ken-ouyang/PGMPI)[project](https://ken-ouyang.github.io/cmpi/index.html)]
 
 ## Applications
 ### Face Swap
