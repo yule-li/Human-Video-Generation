@@ -48,6 +48,7 @@
 ### 2022
 - **NPFAP** Video-driven Neural Physically-based Facial Asset for Production "arXiv"(2022.02)[[paper](https://arxiv.org/pdf/2202.05592.pdf)]
 - **PGMPI** Real-Time Neural Character Rendering with Pose-Guided Multiplane Images "ECCV"(2022) [[paper](https://arxiv.org/pdf/2204.11820.pdf)][[code](https://github.com/ken-ouyang/PGMPI)][[project](https://ken-ouyang.github.io/cmpi/index.html)]
+- **VideoReTalking** Audio-based Lip Synchronization for Talking Head Video Editing In the Wild "arXiv"(2022.11) [[paper](https://arxiv.org/abs/2211.14758)][[code](https://github.com/vinthony/video-retalking)][[project](https://vinthony.github.io/video-retalking/)]
 
 ## Applications
 ### Face Swap
