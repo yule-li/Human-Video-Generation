@@ -49,6 +49,10 @@
 - **NPFAP** Video-driven Neural Physically-based Facial Asset for Production "arXiv"(2022.02)[[paper](https://arxiv.org/pdf/2202.05592.pdf)]
 - **PGMPI** Real-Time Neural Character Rendering with Pose-Guided Multiplane Images "ECCV"(2022) [[paper](https://arxiv.org/pdf/2204.11820.pdf)][[code](https://github.com/ken-ouyang/PGMPI)][[project](https://ken-ouyang.github.io/cmpi/index.html)]
 - **VideoReTalking** Audio-based Lip Synchronization for Talking Head Video Editing In the Wild "arXiv"(2022.11) [[paper](https://arxiv.org/abs/2211.14758)][[code](https://github.com/vinthony/video-retalking)][[project](https://vinthony.github.io/video-retalking/)]
+- **One-Shot-Talking-Face** One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning "AAAI"(2022) [[paper](https://arxiv.org/pdf/2112.02749.pdf)][[code](https://github.com/FuxiVirtualHuman/AAAI22-one-shot-talking-face)][[demo](https://www.youtube.com/watch?v=HHj-XCXXePY)]
+
+### 2023 "
+- **SadTalker** Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation "CVPR"(2023) [[paper](https://arxiv.org/abs/2211.12194)][[code](https://github.com/Winfredy/SadTalker)][[project](https://sadtalker.github.io/)]
 
 ## Applications
 ### Face Swap
