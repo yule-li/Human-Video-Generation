@@ -50,11 +50,14 @@
 - **PGMPI** Real-Time Neural Character Rendering with Pose-Guided Multiplane Images "ECCV"(2022) [[paper](https://arxiv.org/pdf/2204.11820.pdf)][[code](https://github.com/ken-ouyang/PGMPI)][[project](https://ken-ouyang.github.io/cmpi/index.html)]
 - **VideoReTalking** Audio-based Lip Synchronization for Talking Head Video Editing In the Wild "arXiv"(2022.11) [[paper](https://arxiv.org/abs/2211.14758)][[code](https://github.com/vinthony/video-retalking)][[project](https://vinthony.github.io/video-retalking/)]
 - **One-Shot-Talking-Face** One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning "AAAI"(2022) [[paper](https://arxiv.org/pdf/2112.02749.pdf)][[code](https://github.com/FuxiVirtualHuman/AAAI22-one-shot-talking-face)][[demo](https://www.youtube.com/watch?v=HHj-XCXXePY)]
+- RAD-NeRF: Real-time Neural Talking Portrait Synthesis:"arXiv"(2022.12)[[paper](https://arxiv.org/pdf/2211.12368.pdf)][[code](https://github.com/ashawkey/RAD-NeRF)]
 
 ### 2023 "
 - **SadTalker** Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation "CVPR"(2023) [[paper](https://arxiv.org/abs/2211.12194)][[code](https://github.com/Winfredy/SadTalker)][[project](https://sadtalker.github.io/)]
+- GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis "ICLRv"(2023) [[project](https://genefaceplusplus.github.io/)][[code](https://github.com/yerfor/GeneFace)]
 - Towards Realistic Generative 3D Face Models "arXiv"(2023.04) [[paper](https://arxiv.org/pdf/2304.12483.pdf)][[project](https://aashishrai3799.github.io/Towards-Realistic-Generative-3D-Face-Models/)][[code](https://github.com/aashishrai3799/Towards-Realistic-Generative-3D-Face-Models/)]
-- RAD-NeRF: Real-time Neural Talking Portrait Synthesis:[[paper](https://arxiv.org/pdf/2211.12368.pdf)][[code](https://github.com/ashawkey/RAD-NeRF)]
+
+
 
 ## Applications
 ### Face Swap
