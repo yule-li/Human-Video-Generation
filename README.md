@@ -53,6 +53,7 @@
 
 ### 2023 "
 - **SadTalker** Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation "CVPR"(2023) [[paper](https://arxiv.org/abs/2211.12194)][[code](https://github.com/Winfredy/SadTalker)][[project](https://sadtalker.github.io/)]
+- Towards Realistic Generative 3D Face Models "arXiv"(2023.04) [[paper](https://arxiv.org/pdf/2304.12483.pdf)[project](https://aashishrai3799.github.io/Towards-Realistic-Generative-3D-Face-Models/)[code](https://github.com/aashishrai3799/Towards-Realistic-Generative-3D-Face-Models/)]
 
 ## Applications
 ### Face Swap
