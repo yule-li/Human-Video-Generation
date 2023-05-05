@@ -56,6 +56,7 @@
 - **SadTalker** Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation "CVPR"(2023) [[paper](https://arxiv.org/abs/2211.12194)][[code](https://github.com/Winfredy/SadTalker)][[project](https://sadtalker.github.io/)]
 - GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis "ICLRv"(2023) [[project](https://genefaceplusplus.github.io/)][[code](https://github.com/yerfor/GeneFace)]
 - Towards Realistic Generative 3D Face Models "arXiv"(2023.04) [[paper](https://arxiv.org/pdf/2304.12483.pdf)][[project](https://aashishrai3799.github.io/Towards-Realistic-Generative-3D-Face-Models/)][[code](https://github.com/aashishrai3799/Towards-Realistic-Generative-3D-Face-Models/)]
+- Live 3D Portrait: Real-Time Radiance Fields for Single-Image Portrait View Synthesis "SIGGRAPH" (2023) [[project](https://research.nvidia.com/labs/nxp/lp3d/)][[paper](https://research.nvidia.com/labs/nxp/lp3d/media/paper.pdf)]
 
 
 
