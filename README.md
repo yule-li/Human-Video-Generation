@@ -60,6 +60,7 @@
 - **StyleAvatar**: Real-time Photo-realistic Portrait Avatar from a Single Video  "SIGGRAPH" (2023) [[code](https://github.com/LizhenWangT/StyleAvatar)][[project](https://www.liuyebin.com/styleavatar/styleavatar.html)][[paper](https://www.liuyebin.com/styleavatar/assets/StyleAvatar.pdf)]
 - **OTAvatar** : One-shot Talking Face Avatar with Controllable Tri-plane Rendering [[code](https://github.com/theEricMa/OTAvatar)] "arXiv"(2023) [[paper](https://arxiv.org/pdf/2303.14662.pdf)]
 - **DisCoHead**: Audio-and-Video-Driven Talking Head Generation by Disentangled Control of Head Pose and Facial Expressions "arXiv"(2023) [[project](https://deepbrainai-research.github.io/discohead/)]
+- **GeneFace++**: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation:[[project](https://genefaceplusplus.github.io/)]
 
 
 
