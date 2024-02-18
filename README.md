@@ -63,6 +63,7 @@
 - **GeneFace++**: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation:[[project](https://genefaceplusplus.github.io/)]
 - **HumanRF**: High-Fidelity Neural Radiance Fields for Humans in Motion "SIGGRAPH" (2023) [[project](https://synthesiaresearch.github.io/humanrf/)][[code](https://github.com/synthesiaresearch/humanrf)]
 - **PointAvatar**: Deformable Point-based Head Avatars from Videos "CVPR"(2023) [[project](https://zhengyuf.github.io/PointAvatar/)][[code](https://github.com/zhengyuf/pointavatar)][[paper](https://arxiv.org/abs/2212.08377)]
+- **SyncTalk**:SyncTalk: The Devil😈 is in the Synchronization for Talking Head Synthesis "srXiv(2023.11)[[project](https://ziqiaopeng.github.io/synctalk/)][[code](https://github.com/ziqiaopeng/SyncTalk)]
 
 
 
