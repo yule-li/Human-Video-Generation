@@ -52,7 +52,7 @@
 - **One-Shot-Talking-Face** One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning "AAAI"(2022) [[paper](https://arxiv.org/pdf/2112.02749.pdf)][[code](https://github.com/FuxiVirtualHuman/AAAI22-one-shot-talking-face)][[demo](https://www.youtube.com/watch?v=HHj-XCXXePY)]
 - RAD-NeRF: Real-time Neural Talking Portrait Synthesis:"arXiv"(2022.12)[[paper](https://arxiv.org/pdf/2211.12368.pdf)][[code](https://github.com/ashawkey/RAD-NeRF)]
 
-### 2023 "
+### 2023 
 - **SadTalker** Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation "CVPR"(2023) [[paper](https://arxiv.org/abs/2211.12194)][[code](https://github.com/Winfredy/SadTalker)][[project](https://sadtalker.github.io/)]
 - **GeneFace**: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis "ICLRv"(2023) [[project](https://genefaceplusplus.github.io/)][[code](https://github.com/yerfor/GeneFace)][[dockerfile](https://github.com/xk-huang/GeneFace/tree/main/docker)]
 - Towards Realistic Generative 3D Face Models "arXiv"(2023.04) [[paper](https://arxiv.org/pdf/2304.12483.pdf)][[project](https://aashishrai3799.github.io/Towards-Realistic-Generative-3D-Face-Models/)][[code](https://github.com/aashishrai3799/Towards-Realistic-Generative-3D-Face-Models/)]
@@ -64,6 +64,9 @@
 - **HumanRF**: High-Fidelity Neural Radiance Fields for Humans in Motion "SIGGRAPH" (2023) [[project](https://synthesiaresearch.github.io/humanrf/)][[code](https://github.com/synthesiaresearch/humanrf)]
 - **PointAvatar**: Deformable Point-based Head Avatars from Videos "CVPR"(2023) [[project](https://zhengyuf.github.io/PointAvatar/)][[code](https://github.com/zhengyuf/pointavatar)][[paper](https://arxiv.org/abs/2212.08377)]
 - **SyncTalk**:SyncTalk: The Devil😈 is in the Synchronization for Talking Head Synthesis "srXiv(2023.11)[[project](https://ziqiaopeng.github.io/synctalk/)][[code](https://github.com/ziqiaopeng/SyncTalk)]
+
+### 2024
+- **Real3D-Portait**: Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis "ICLR(2024)" [[project](https://real3dportrait.github.io/)][[code](https://github.com/yerfor/Real3DPortrait)][[paper](https://arxiv.org/abs/2401.08503)]
 
 
 
