@@ -63,10 +63,11 @@
 - **GeneFace++**: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation:[[project](https://genefaceplusplus.github.io/)]
 - **HumanRF**: High-Fidelity Neural Radiance Fields for Humans in Motion "SIGGRAPH" (2023) [[project](https://synthesiaresearch.github.io/humanrf/)][[code](https://github.com/synthesiaresearch/humanrf)]
 - **PointAvatar**: Deformable Point-based Head Avatars from Videos "CVPR"(2023) [[project](https://zhengyuf.github.io/PointAvatar/)][[code](https://github.com/zhengyuf/pointavatar)][[paper](https://arxiv.org/abs/2212.08377)]
-- **SyncTalk**:SyncTalk: The Devil😈 is in the Synchronization for Talking Head Synthesis "srXiv(2023.11)[[project](https://ziqiaopeng.github.io/synctalk/)][[code](https://github.com/ziqiaopeng/SyncTalk)]
+- **SyncTalk**:SyncTalk: The Devil😈 is in the Synchronization for Talking Head Synthesis "arXiv(2023.11)[[project](https://ziqiaopeng.github.io/synctalk/)][[code](https://github.com/ziqiaopeng/SyncTalk)]
 
 ### 2024
 - **Real3D-Portait**: Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis "ICLR(2024)" [[project](https://real3dportrait.github.io/)][[code](https://github.com/yerfor/Real3DPortrait)][[paper](https://arxiv.org/abs/2401.08503)]
+- **EMO**: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions "arXiv"(2024.02) [[project](https://humanaigc.github.io/emote-portrait-alive/)][[paper](https://arxiv.org/abs/2402.17485)][[code](https://github.com/HumanAIGC/EMO)]
 
 
 
